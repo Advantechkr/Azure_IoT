@@ -1,9 +1,13 @@
 	사전 준비	4
   1.	Reference	4
     1.1.	Advantech ARK-1123 Gateway	4
+    
     1.2.	Advantech WISE-4012 Data Acquisition and protocol converter	4
+    
     1.3.	Microsoft Azure Introduce	4
+    
     1.4.	Microsoft Azure Portal	4
+    
   2.	Requirements	4
     2.1.	Azure account with subscription	4
     2.2.	Microsoft Visual Studio 2017	4
